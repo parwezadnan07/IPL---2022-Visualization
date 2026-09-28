@@ -73,20 +73,29 @@ ipl-2022-capstone-project/
 To run this project locally on your machine, follow these steps:
 
 1. Clone the Repository
+```
 git clone [https://github.com/your-username/ipl-2022-capstone-project.git](https://github.com/your-username/ipl-2022-capstone-project.git)
 cd ipl-2022-capstone-project
 
+```
+
 2. Set Up a Virtual Environment (Optional but Recommended)
+```
 python -m venv venv
 # On Windows:
 venv\Scripts\activate
 # On macOS/Linux:
 source venv/bin/activate
 
+```
+
 3. Install Dependencies
+```
 pip install -r requirements.txt
 (If requirements.txt is not present, install core dependencies manually:)
 pip install numpy pandas matplotlib seaborn jupyter
+
+```
 
 4. Run the Jupyter Notebook
 Launch JupyterLab or VS Code to explore the analysis step-by-step:
