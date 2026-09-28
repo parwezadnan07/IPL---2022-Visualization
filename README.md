@@ -68,6 +68,7 @@ ipl-2022-capstone-project/
 ├── README.md                      # Project documentation (this file)
 └── requirements.txt               # Python package dependencies
 
+```
 🚀 Getting Started & Installation
 To run this project locally on your machine, follow these steps:
 
@@ -95,3 +96,5 @@ jupyter notebook notebooks/ipl_2022_analysis.ipynb
 Win Distribution by Team: Visual bar plots highlighting how different franchises performed under pressure during the league stages.
 
 Toss Decision Impact: Pie charts and count plots depicting the prevailing trend of bowling first after winning the toss in evening T20 fixtures.
+
+
