@@ -1,7 +1,5 @@
 #  🏏 IPL 2022 Comprehensive Data Analysis 
 
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-3776AB?style=for-the-badge&logo=python&logoColor=white)
