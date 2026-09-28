@@ -1,4 +1,4 @@
-#                                🏏 IPL 2022 Comprehensive Data Analysis 
+#🏏 IPL 2022 Comprehensive Data Analysis 
 
 <div align="center">
 
