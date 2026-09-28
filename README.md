@@ -1,4 +1,4 @@
-# 🏏 IPL 2022 Comprehensive Data Analysis & Capstone Project
+# 🏏 IPL 2022 Comprehensive Data Analysis 
 
 <div align="center">
 
@@ -65,8 +65,33 @@ ipl-2022-capstone-project/
 ├── notebooks/
 │   └── ipl_2022_analysis.ipynb    # Main Jupyter Notebook containing code, charts, and narrative
 │
-├── outputs/
-│   └── figures/                   # Exported high-resolution data visualizations and plots
-│
 ├── README.md                      # Project documentation (this file)
 └── requirements.txt               # Python package dependencies
+
+🚀 Getting Started & Installation
+To run this project locally on your machine, follow these steps:
+
+1. Clone the Repository
+git clone [https://github.com/your-username/ipl-2022-capstone-project.git](https://github.com/your-username/ipl-2022-capstone-project.git)
+cd ipl-2022-capstone-project
+
+2. Set Up a Virtual Environment (Optional but Recommended)
+python -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+
+3. Install Dependencies
+pip install -r requirements.txt
+(If requirements.txt is not present, install core dependencies manually:)
+pip install numpy pandas matplotlib seaborn jupyter
+
+4. Run the Jupyter Notebook
+Launch JupyterLab or VS Code to explore the analysis step-by-step:
+jupyter notebook notebooks/ipl_2022_analysis.ipynb
+
+📈 Key Visualizations & Findings Preview
+Win Distribution by Team: Visual bar plots highlighting how different franchises performed under pressure during the league stages.
+
+Toss Decision Impact: Pie charts and count plots depicting the prevailing trend of bowling first after winning the toss in evening T20 fixtures.
