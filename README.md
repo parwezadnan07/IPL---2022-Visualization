@@ -99,6 +99,8 @@ pip install numpy pandas matplotlib seaborn jupyter
 Launch JupyterLab or VS Code to explore the analysis step-by-step:
 jupyter notebook notebooks/ipl_2022_analysis.ipynb
 
+
+
 📈 Key Visualizations & Findings Preview
 
 Win Distribution by Team: Visual bar plots highlighting how different franchises performed under pressure during the league stages.
